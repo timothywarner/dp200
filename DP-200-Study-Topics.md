@@ -1,37 +1,60 @@
-# DP-200 Study Topics
+# DP-200 Crash Course Table of Contents
 
-## Implement Data Storage Solutions
+## SESSION 1
 
-* Cosmos DB
-    * Consistency model
-* Data Lake Gen2
-* Blob storage
-* Synapse
-    * Distribution modes
-    * PolyBase
-    * HA
-    * DR
-    * Data masking
-    * Always Encrypted
+### Implement Data Storage Solutions (40-45%)
 
-## Manage and Develop Data Processing
+    #### Non-Relational Data Stores
 
-* Synapse Analytics
-    * PolyBase
-* Azure Data Factory
-    * Runtime integration
-* Azure Databricks
-    * Clusters, notebooks, jobs, autoscale
-    * Ingestion
+        * Azure storage account
+            * Blob storage
+            * Data Lake Storage Gen 2
+        * Cosmos DB
+            * Consistency models
 
-## Monitor and Optimize Data Solutions
+    #### Relational Data Stores
 
-* Relational and non-relational DB monitoring
-* Data Lake Gen2 monitoring
-* Azure Monitor
-    * Alerts
-* Log Analytics
-* Monitor
-    * ADF pipelines
-    * Databricks
-* Optimize
+        * Azure SQL Database
+            * Encryption options
+            * Data masking
+            * HA/DR
+        * Azure Synapse
+            * Distribution modes
+            * HA/DR
+
+    ### DP-200 Exam Prep
+
+        * Item types
+        * Practice items
+
+## SESSION 2
+
+### Manage and Develop Data Processing/Analytics (25-30%)
+
+        * Azure Synapse
+            * PolyBase
+        * Azure Databricks
+            * Clusters, notebooks, jobs, autoscale
+            * Ingestion
+        * Azure Data Factory
+            * Runtime integration
+
+### Monitor and Optimize Data Solutions (30-35%)
+
+        * Relational and non-relational DB monitoring
+        * Data Lake Gen2 monitoring
+        * Azure Monitor
+            * Alerts
+        * Log Analytics
+        * Monitor
+            * ADF pipelines
+            * Databricks
+        * Optimize
+
+### DP-200 Exam Prep
+
+        * Online testing
+        * Hands-on
+        * Practice items
+
+
