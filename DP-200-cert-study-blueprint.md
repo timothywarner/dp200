@@ -3,7 +3,14 @@
 ## Theoretical Knowledge
 
 * [Azure documentation](https://docs.microsoft.com/en-us/azure/)
-* asdf
+* Data Lake Storage Gen 2 docs
+* Storage account docs
+* Azure Synapse docs
+* Azure Data Factory docs
+* Azure SQL Database docs
+* Cosmos DB docs
+* Azure Databricks docs
+*
 
 ## Hands-on Skill Development
 

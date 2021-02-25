@@ -20,6 +20,7 @@
             * Encryption options
             * Data masking
             * HA/DR
+            * In-memory technologies
         * Azure Synapse
             * Distribution modes
             * HA/DR
@@ -42,6 +43,8 @@
             * Ingestion
         * Azure Data Factory
             * Integration runtimes
+        * Stream Analytics
+            * Streaming Units
 
 ### Monitor and Optimize Data Solutions (30-35%)
 
