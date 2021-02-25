@@ -9,8 +9,10 @@
         * Azure storage account
             * Blob storage
             * Data Lake Storage Gen 2
+            * Authentication & encryption
         * Cosmos DB
             * Consistency models
+            * Authentication & encryption
 
     #### Relational Data Stores
 
@@ -35,9 +37,11 @@
             * PolyBase
         * Azure Databricks
             * Clusters, notebooks, jobs, autoscale
+            * Credential passthrough
+            * High-concurrency
             * Ingestion
         * Azure Data Factory
-            * Runtime integration
+            * Integration runtimes
 
 ### Monitor and Optimize Data Solutions (30-35%)
 
