@@ -48,6 +48,7 @@
             * Streaming Units
             * Watermark delay
             * Windowing functions
+            * User-defined aggregates
 
 ### Monitor and Optimize Data Solutions (30-35%)
 
