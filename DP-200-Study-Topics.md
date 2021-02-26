@@ -43,8 +43,11 @@
             * Ingestion
         * Azure Data Factory
             * Integration runtimes
+        * Event Hubs
         * Stream Analytics
             * Streaming Units
+            * Watermark delay
+            * Windowing functions
 
 ### Monitor and Optimize Data Solutions (30-35%)
 
