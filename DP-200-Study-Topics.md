@@ -21,6 +21,8 @@
             * Data masking
             * HA/DR
             * In-memory technologies
+            * Master key (DEK)
+            * DB-scoped credential
         * Azure Synapse
             * Distribution modes
             * HA/DR
@@ -60,7 +62,8 @@
         * Monitor
             * ADF pipelines
             * Databricks
-        * Optimize
+        * Data Warehouse (DWU)
+        * Synapse Analytics (SU)
 
 ### DP-200 Exam Prep
 
