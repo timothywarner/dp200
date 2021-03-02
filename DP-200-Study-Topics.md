@@ -4,6 +4,20 @@
 
 ### Implement Data Storage Solutions (40-45%)
 
+    #### Relational Data Stores
+
+        * Data Migration Assistant
+        * Azure SQL Database
+            * Pricing model
+                * Elastic pool
+            * Encryption options
+                * Database TDE w/ PowerShell
+            * Data masking
+            * HA/DR
+            * Azure DB Sync
+        * Azure Synapse
+            * Distribution modes
+            * HA/DR
     #### Non-Relational Data Stores
 
         * Azure storage account
@@ -13,31 +27,40 @@
         * Cosmos DB
             * Consistency models
             * Authentication & encryption
-
-    #### Relational Data Stores
-
-        * Azure SQL Database
-            * Encryption options
-            * Data masking
-            * HA/DR
-            * In-memory technologies
-            * Master key (DEK)
-            * DB-scoped credential
-        * Azure Synapse
-            * Distribution modes
-            * HA/DR
+            * RUs
+            * Partitioning (see PPT)
 
     ### DP-200 Exam Prep
 
         * Item types
         * Practice items
 
+
+
+
+
+
+
+
+
 ## SESSION 2
+
+### Sweep up the shavings
+
+* Cosmos consistency levels take 2
+* Synapse SQL Pool distribution modes (SLIDES)
+
+### Storage accounts / data lake
+
+* Creation
+* lifecycle management
+
 
 ### Manage and Develop Data Processing/Analytics (25-30%)
 
         * Azure Synapse
-            * PolyBase
+            * PolyBase SQL Pool
+            * Notebook Spark Pool
         * Azure Databricks
             * Clusters, notebooks, jobs, autoscale
             * Credential passthrough
@@ -45,6 +68,7 @@
             * Ingestion
         * Azure Data Factory
             * Integration runtimes
+            * Copy example
         * Event Hubs
         * Stream Analytics
             * Streaming Units
@@ -62,6 +86,7 @@
         * Monitor
             * ADF pipelines
             * Databricks
+                * Monitoring Library
         * Data Warehouse (DWU)
         * Synapse Analytics (SU)
 
